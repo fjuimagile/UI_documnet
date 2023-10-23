@@ -6,7 +6,7 @@
       "size": "micro",
       "hero": {
         "type": "image",
-        "url": "https://scdn.line-apps.com/n/channel_devcenter/img/flexsnapshot/clip/clip10.jpg",
+        "url": "https://images.pexels.com/photos/3771074/pexels-photo-3771074.jpeg?auto=compress&cs=tinysrgb&w=800",
         "size": "full",
         "aspectMode": "cover",
         "aspectRatio": "320:213"
@@ -92,7 +92,7 @@
       "size": "micro",
       "hero": {
         "type": "image",
-        "url": "https://scdn.line-apps.com/n/channel_devcenter/img/flexsnapshot/clip/clip11.jpg",
+        "url": "https://images.pexels.com/photos/4778621/pexels-photo-4778621.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
         "size": "full",
         "aspectMode": "cover",
         "aspectRatio": "320:213"
@@ -178,7 +178,7 @@
       "size": "micro",
       "hero": {
         "type": "image",
-        "url": "https://scdn.line-apps.com/n/channel_devcenter/img/flexsnapshot/clip/clip12.jpg",
+        "url": "https://images.pexels.com/photos/4144101/pexels-photo-4144101.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
         "size": "full",
         "aspectMode": "cover",
         "aspectRatio": "320:213"
