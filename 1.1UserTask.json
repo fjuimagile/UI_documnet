@@ -6,7 +6,7 @@
       "size": "micro",
       "hero": {
         "type": "image",
-        "url": "https://scdn.line-apps.com/n/channel_devcenter/img/flexsnapshot/clip/clip10.jpg",
+        "url": "https://images.pexels.com/photos/5905448/pexels-photo-5905448.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
         "size": "full",
         "aspectMode": "cover",
         "aspectRatio": "320:213"
@@ -92,7 +92,7 @@
       "size": "micro",
       "hero": {
         "type": "image",
-        "url": "https://scdn.line-apps.com/n/channel_devcenter/img/flexsnapshot/clip/clip11.jpg",
+        "url": "https://images.pexels.com/photos/3779445/pexels-photo-3779445.jpeg",
         "size": "full",
         "aspectMode": "cover",
         "aspectRatio": "320:213"
@@ -178,7 +178,7 @@
       "size": "micro",
       "hero": {
         "type": "image",
-        "url": "https://scdn.line-apps.com/n/channel_devcenter/img/flexsnapshot/clip/clip12.jpg",
+        "url": "https://images.pexels.com/photos/1106468/pexels-photo-1106468.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
         "size": "full",
         "aspectMode": "cover",
         "aspectRatio": "320:213"
@@ -189,7 +189,7 @@
         "contents": [
           {
             "type": "text",
-            "text": "尋找圖書館資訊",
+            "text": "圖書館資訊",
             "weight": "bold",
             "size": "sm"
           },
