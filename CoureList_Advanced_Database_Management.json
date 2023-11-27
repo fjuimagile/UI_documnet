@@ -1,0 +1,136 @@
+{
+  "type": "bubble",
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "高等資料庫管理",
+        "weight": "bold",
+        "size": "xl"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "margin": "lg",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "baseline",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "課程代碼",
+                "color": "#aaaaaa",
+                "size": "md",
+                "flex": 2
+              },
+              {
+                "type": "text",
+                "text": "G745032133",
+                "wrap": true,
+                "color": "#666666",
+                "size": "md",
+                "flex": 5
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "教師姓名",
+                "color": "#aaaaaa",
+                "size": "md",
+                "flex": 2
+              },
+              {
+                "type": "text",
+                "text": "蔡幸蓁",
+                "wrap": true,
+                "color": "#666666",
+                "size": "md",
+                "flex": 5
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "選別",
+                "color": "#aaaaaa",
+                "size": "md",
+                "flex": 2
+              },
+              {
+                "type": "text",
+                "text": "必修",
+                "wrap": true,
+                "color": "#666666",
+                "size": "md",
+                "flex": 5
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "學分",
+                "color": "#aaaaaa",
+                "size": "md",
+                "flex": 2
+              },
+              {
+                "type": "text",
+                "text": "3",
+                "wrap": true,
+                "color": "#666666",
+                "size": "md",
+                "flex": 5
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "spacing": "none"
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "spacing": "sm",
+    "contents": [
+      {
+        "type": "button",
+        "style": "link",
+        "height": "md",
+        "action": {
+          "type": "uri",
+          "label": "課程大綱",
+          "uri": "https://outline.fju.edu.tw/#/outLineSearch/outlineView/693891/1028"
+        }
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [],
+        "margin": "sm"
+      }
+    ],
+    "flex": 0
+  }
+}
